@@ -25,6 +25,9 @@ Nesse projeto, utilizamos:
 * Requisição à API;
 * Simulação de um banco utilizando LocalStorage;
 
+## Deploy
+Link para o Deploy da aplicação: [Frontend Online Store](https://front-end-online-store.netlify.app/)
+
 ## Screenshots
 
 ![Initial Page Demo](/images/screenshots/initial-page.png?raw=true "Optional Title")
